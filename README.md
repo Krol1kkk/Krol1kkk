@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krol1kkk&theme=cobalt&show_icons=true) ![trophy](https://github-profile-trophy.vercel.app/?username=Krol1kkk&theme=onedark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Krol1kkk&theme=dark&hide_border=true&locale=ru)](https://git.io/streak-stats)
 
 <!--
 **Krol1kkk/Krol1kkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
