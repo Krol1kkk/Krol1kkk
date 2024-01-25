@@ -1,4 +1,4 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Krol1kkk&theme=dark&hide_border=true&locale=ru)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Krol1kkk&theme=dark&hide_border=true&locale=en)](https://git.io/streak-stats)
 
 <!--
 **Krol1kkk/Krol1kkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
